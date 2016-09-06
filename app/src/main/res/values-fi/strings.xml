@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Terve Android</string>
+    <string name="hello_text">Terve Androidd!</string>
+    <string name="hello_world_land">Terve Landscape Maailma!</string>
+    <string name="another_string">Toinen malliteksti suomeksi!.</string>
+</resources>
